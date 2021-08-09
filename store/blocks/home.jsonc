@@ -1,6 +1,7 @@
 {
   "store.home": { 
     "blocks": [
+      "list-context.image-list#demo",
       "stack-layout#cta",
       "rich-text",
       "slider-layout#home",
@@ -14,6 +15,39 @@
       "info-card#button-left",
       "flex-layout.row"
     ]
+  },
+  
+  "list-context.image-list#demo": {
+    "children": ["slider-layout#demo-images"],
+    "props": {
+      "height": 720,
+      "images": [
+        {
+          "image": "https://storecomponents.vteximg.com.br/arquivos/banner-principal.png",
+          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+        },
+        {
+          "image": "https://storecomponents.vteximg.com.br/arquivos/banner.jpg",
+          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+        },
+        {
+          "image": "https://www.futuraexpress.com.br/blog/wp-content/uploads/2020/03/banner-Madeira-com-Estirante.jpg",
+          "mobileImage": "https://www.futuraexpress.com.br/blog/wp-content/uploads/2020/03/banner-Madeira-com-Estirante.jpg"
+        }
+      ]
+    }
+  },
+  "slider-layout#demo-images": {
+    "props": {
+      "itemsPerPage": {
+        "desktop": 1,
+        "tablet": 1,
+        "phone": 1
+      },
+      "infinite": true,
+      "showNavigationArrows": "desktopOnly",
+      "blockClass": "carousel"
+    }
   },
 
   "stack-layout#cta": {

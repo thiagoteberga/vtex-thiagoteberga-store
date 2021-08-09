@@ -11,6 +11,7 @@
 - [x] Evoluindo sua página de produto
 - [x] Página de busca
 
+
 ## Layouts complexos
 - [x] Apresentando blocos de layout
 - [x] Flex layout
@@ -21,6 +22,24 @@
 - [x] Quick View
 - [x] Stack Layout
 - [x] Conditional Layout
+
+
+## Site Editor e conteúdo
+- [x] Conhecendo mais sobre workspaces
+- [x] Publicando uma aplicação no VTEX IO
+- [x] Instalando uma app em uma conta VTEX
+- [x] Apresentando o Site Editor e alterando um banner de uma loja
+
+
+
+## Melhorando performance
+- [ ] Melhorando load inicial
+- [ ] Otimizando menus
+- [ ] Otimização de submenus
+- [ ] Imagens
+- [ ] Melhorias na busca
+- [ ] Refatorando blocos
+
 
 ## Tornando sua loja única
 
