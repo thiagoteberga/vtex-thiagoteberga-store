@@ -3,6 +3,7 @@
     "blocks": [
       "list-context.image-list#demo",
       "stack-layout#cta",
+      "__fold__", //Daqui para baixo não irá carregar no incio
       "rich-text",
       "slider-layout#home",
       "tab-layout#home",
