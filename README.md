@@ -31,6 +31,16 @@
 - [x] Apresentando o Site Editor e alterando um banner de uma loja
 
 
+## Tornando sua loja única
+
+- [x] Introdução
+- [x] CSS handles e o poder da customização de blocos
+- [x] Estilos globais
+- [x] Criando templates customizados
+- [x] Explorando o poder do rich text
+- [x] Construindo uma landing customizada de busca
+
+
 # Links Úteis:
 ## Meu Workspace:
 https://thiagoteberga--hiringcoders2021.myvtex.com/
